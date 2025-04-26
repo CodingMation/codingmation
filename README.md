@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://codepen.io/codingmation" target="blank">
     <img align="center" src="./images/codepen.svg" alt="codingmation" height="30" width="40" /><strong> CodePen.io</strong></a>
-
+<br>
   <a href="https://linkedin.com/in/codingmation" target="_blank">
     <img align="center" src="./images/linkedin-original.svg" alt="GitHub" height="30" width="40"/><strong> LinkeDin</strong>
   </a>
