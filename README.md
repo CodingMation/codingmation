@@ -3,10 +3,9 @@
 </h1>
 
 <h3 align="center">A passionate frontend developer</h3>
-<p align="center">
-    <img align="center" src="./images/jpg/basic.jpg" alt="codingmation" width="100%" />
-</p>
 
+
+![codingmation](./images/jpg/basic.jpg)
 ---
 
 ### About Me
