@@ -3,13 +3,23 @@
 </h1>
 
 <h3 align="center">A passionate frontend developer</h3>
+<p align="center">
+    <img align="center" src="./images/jpg/basic.jpg" alt="codingmation" height="150" width="300" />
+</p>
 
-
-![codingmation](./images/jpg/basic.jpg)
 ---
 
 ### About Me
-![codingmation](./images/colorText/react.svg)
+<br>
+
+- I’m currently working on improving my frontend skills and building interactive websites  
+
+- I’m learning <strong>React</strong> and <strong>Node.js</strong>
+
+- Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, or anything frontend!
+
+- Fun fact: I love to deep dive into <strong>JavaScript</strong> and modern web technologies.
+
 
 ---
 
@@ -17,9 +27,10 @@
 <br>
 <p align="left">
   <a href="https://codepen.io/codingmation" target="blank">
-    <img align="center" src="./images/codepen.svg" alt="codingmation" height="30" width="40" /></a>
+    <img align="center" src="./images/codepen.svg" alt="codingmation" height="30" width="40" /><strong> CodePen.io</strong></a>
+
   <a href="https://linkedin.com/in/codingmation" target="_blank">
-    <img align="center" src="./images/linkedin-original.svg" alt="GitHub" height="30" width="40"/>
+    <img align="center" src="./images/linkedin-original.svg" alt="GitHub" height="30" width="40"/><strong> LinkeDin</strong>
   </a>
 </p>
 
