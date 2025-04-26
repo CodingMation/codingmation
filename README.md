@@ -4,21 +4,13 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">
-    <img align="center" src="./images/jpg/basic.jpg" alt="codingmation" height="150" width="300" />
+    <img align="center" src="./images/jpg/basic.jpg" alt="codingmation" width="100%" />
 </p>
 
 ---
 
 ### About Me
-<br>
-- I’m currently working on improving my frontend skills and building interactive websites  
-
-- I’m learning <strong>React</strong> and <strong>Node.js</strong>
-
-- Ask me about <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, or anything frontend!
-
-- Fun fact: I love to deep dive into <strong>JavaScript</strong> and modern web technologies.
-
+![codingmation](./images/colorText/react.svg)
 
 ---
 
