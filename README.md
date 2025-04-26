@@ -10,7 +10,6 @@
 ---
 
 ### 💫 About Me
-<br>
 
 - I’m currently working on improving my frontend skills and building interactive websites  
 
