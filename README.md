@@ -3,7 +3,7 @@
 <h3 align="center">🚀 A Passionate Full Stack (MERN) Developer from India</h3>
 
 <p align="center">
-  <img src="./images/jpg/prof.jpg" alt="codingmation" width="350"/>
+  <img src="./images/gif/fullStack.gif" alt="codingmation" width="350"/>
 </p>
 
 ---
