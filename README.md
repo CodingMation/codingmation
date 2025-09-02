@@ -69,8 +69,9 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=CodingMation&show_icons=true&theme=radical" alt="CodingMation GitHub Stats"/>
  </p>
+
  <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingMation&theme=radical" alt="GitHub Streak"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=codingmation&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
