@@ -9,13 +9,15 @@
 ---
 
 ## 💫 About Me
-- 🌱 Currently sharpening my **Full Stack Development (MERN)** skills  
-- 💡 Learning **DSA in Java**  
-- ⚡ Fun fact: I love exploring **modern web technologies** & diving deep into **JavaScript**  
+
+- 🌱 Currently sharpening my **Full Stack Development (MERN)** skills
+- 💡 Learning **DSA in Java**
+- ⚡ Fun fact: I love exploring **modern web technologies** & diving deep into **JavaScript**
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://codepen.io/codingmation" target="_blank">
     <img src="./images/icons/codepen.svg" alt="CodePen" height="30" width="40"/> <b>CodePen</b>
@@ -27,9 +29,10 @@
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
 ### 🌐 Frontend
+
 <p>
   <img src="./images/icons/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img src="./images/icons/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
@@ -42,6 +45,7 @@
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="./images/icons/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="./images/icons/php-original.svg" width="40" height="40" alt="PHP"/>
@@ -52,6 +56,7 @@
 </p>
 
 ### 🗄️ Database
+
 <p>
   <img src="./images/icons/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="./images/icons/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
@@ -60,18 +65,16 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codingmation&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codingmation&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmation&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=CodingMation&show_icons=true&theme=radical" alt="CodingMation GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingMation&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codingmation&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
