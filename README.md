@@ -67,11 +67,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=CodingMation&show_icons=true&theme=radical" alt="CodingMation GitHub Stats"/>
- </p>
- 
- <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingMation&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codingmation&theme=dark&show_icons=true&count_private=true" alt="Sumit Maurya GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmation&theme=dark&layout=compact&hide_border=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=codingmation&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
